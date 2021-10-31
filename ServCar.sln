@@ -5,6 +5,10 @@ VisualStudioVersion = 16.0.31129.286
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ServCar", "ServCar\ServCar.csproj", "{04BA6D23-95B1-4C6E-9DC0-2CEA3BD98A36}"
 EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "setup", "setup\setup.vdproj", "{D73AFB26-B2DD-461E-89D8-411FA0BDDAF9}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "Setup1", "Setup1\Setup1.vdproj", "{8ED008BB-CD35-40A0-98D8-ED4397DB3E0A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +19,10 @@ Global
 		{04BA6D23-95B1-4C6E-9DC0-2CEA3BD98A36}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{04BA6D23-95B1-4C6E-9DC0-2CEA3BD98A36}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{04BA6D23-95B1-4C6E-9DC0-2CEA3BD98A36}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D73AFB26-B2DD-461E-89D8-411FA0BDDAF9}.Debug|Any CPU.ActiveCfg = Debug
+		{D73AFB26-B2DD-461E-89D8-411FA0BDDAF9}.Release|Any CPU.ActiveCfg = Release
+		{8ED008BB-CD35-40A0-98D8-ED4397DB3E0A}.Debug|Any CPU.ActiveCfg = Debug
+		{8ED008BB-CD35-40A0-98D8-ED4397DB3E0A}.Release|Any CPU.ActiveCfg = Release
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

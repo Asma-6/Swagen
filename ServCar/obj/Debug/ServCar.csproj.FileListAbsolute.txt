@@ -154,7 +154,6 @@ C:\Users\PC\Documents\Asma\S8\.net\ServCar (5)\ServCar (5)\ServCar\bin\Debug\Sys
 C:\Users\PC\Documents\Asma\S8\.net\ServCar (5)\ServCar (5)\ServCar\bin\Debug\System.Memory.xml
 C:\Users\PC\Documents\Asma\S8\.net\ServCar (5)\ServCar (5)\ServCar\bin\Debug\System.Numerics.Vectors.xml
 C:\Users\PC\Documents\Asma\S8\.net\ServCar (5)\ServCar (5)\ServCar\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
-C:\Users\PC\Documents\Asma\S8\.net\ServCar (5)\ServCar (5)\ServCar\obj\Debug\ServCar.csprojAssemblyReference.cache
 C:\Users\PC\Documents\Asma\S8\.net\ServCar (5)\ServCar (5)\ServCar\obj\Debug\ServCar.AjouterConducteur.resources
 C:\Users\PC\Documents\Asma\S8\.net\ServCar (5)\ServCar (5)\ServCar\obj\Debug\ServCar.AjouterVehicule.resources
 C:\Users\PC\Documents\Asma\S8\.net\ServCar (5)\ServCar (5)\ServCar\obj\Debug\ServCar.Alert.resources
