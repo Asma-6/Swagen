@@ -24,7 +24,7 @@ This application is made for two different profiles: Admin and driver.
 
 ## II- How to use it :
 1- At first, clone this repository to your local space from the command line with:
-git clone https://github.com/Asma-6/PYTHON.ma.git or download the zip code.\
+`git clone https://github.com/Asma-6/PYTHON.ma.git` or download the zip code. \
 2- Open the ServCar.sln in visual studio if you have it, otherwise you can dowload it from here: https://visualstudio.microsoft.com/fr/downloads/. \
 3- Run the code, and test the app "all the necessary packages are in the packages folder". \
 4- Another way to test the app as a real desktop application, is to install it in your computer, so all what you need is to run the executable file "setup.exe" which is in the folder setup1/Debug. \
