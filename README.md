@@ -25,14 +25,14 @@ This application is made for two different profiles: Admin and driver.
 ## II- How to use it :
 1- At first, clone this repository to your local space from the command line with:
 `git clone https://github.com/Asma-6/PYTHON.ma.git` or download the zip code. \
-2- Open the ServCar.sln in visual studio if you have it, otherwise you can dowload it from here: https://visualstudio.microsoft.com/fr/downloads/. \
+2- Open the ServCar.sln in visual studio if you have it, otherwise you can download it from here: https://visualstudio.microsoft.com/fr/downloads/. \
 3- Run the code, and test the app "all the necessary packages are in the packages folder". \
 4- Another way to test the app as a real desktop application, is to install it in your computer, so all what you need is to run the executable file "setup.exe" which is in the folder setup1/Debug. \
 After installing the app, you will find it in your desktop, and you can run it as a simple desktop app. \
 If you have any problem related to the database, you can move the two files "Database.mdf" and "Database_log.ldf" to your new folder of the previous installation, which you will find it in your programfiles under the name of WIAH. 
 
 ## III- Improvements :
-This application is made in a theoretical way, it needs a real concretization to be more practical, because all the analyzes given in it remain random such as the speed...
+This application is made in a theoretical way, it needs a real concretization to be more practical, because all its analyses remain random such as the speed...
 
 <p align="center">
     🌟🌟🌟 ENJOY IT 🌟🌟🌟
